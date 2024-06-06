@@ -1,0 +1,7 @@
+.secondary {
+  background-color: var(--bs-success);
+}
+.secondary-text {
+  color: var(--bs-success);
+}
+
